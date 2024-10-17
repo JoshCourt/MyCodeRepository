@@ -85,3 +85,5 @@ def run_etl_pipeline():
 # Run the ETL pipeline
 if __name__ == '__main__':
     run_etl_pipeline()
+
+# Make sure this pipeline stays public.
